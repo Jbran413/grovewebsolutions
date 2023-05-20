@@ -1,0 +1,46 @@
+.btn {
+    background-color: #269e52;
+    border-radius: 10px;
+    color: white;
+}
+
+.missionstatement {
+    display: flex;
+    padding: 5%;
+}
+
+.contactimages {
+    display: flex;
+
+}
+
+.contactinfo {
+    display: flex;
+}
+
+a {
+    display: inline-flex;
+}
+
+#contact {
+    padding-top: 2%;
+}
+
+#skillslist {
+    display: flex;
+    position: relative;
+    padding-top: 1%;
+}
+
+#skills {
+padding-top: 2%;
+}
+
+#projects {
+    padding-top: 2%;
+}
+
+#projectlist {
+    display: inline-flex;
+    padding: 5%;
+}
